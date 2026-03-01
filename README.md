@@ -22,19 +22,10 @@ simple-carousel/
 ├── style.css
 └── script.js
 
-## Getting Started
+## 📬 Contact
+- GitHub: https://github.com/rajalaxmi2006
+- Email: biswalrajalaxmi901@gmail.com
+- Linkedin: www.linkedin.com/in/rajalaxmi-biswal-90652337b
+ 
+⭐ If you like this caraousel, feel free to star the repository!
 
-1. Clone the repository
-git clone https://github.com/your-username/simple-carousel.git
-
-2. Open `index.html` in your browser  
-No installation or dependencies required.
-
-## Usage
-- Edit slide content in `index.html`
-- Customize styles in `style.css`
-- Modify carousel behavior in `script.js`
-
-## Author
-Your Name
-GitHub:https://github.com/rajalaxmi2006
