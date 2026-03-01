@@ -1,7 +1,7 @@
 # Simple Carousel
 
 A basic and responsive carousel built using HTML, CSS, and JavaScript.  
-It displays 4–5 slides with smooth transitions and simple navigation.
+It displays 3-4 slides with smooth transitions and simple navigation.
 
 ## Features
 - 3-4 slides
